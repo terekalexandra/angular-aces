@@ -1,3 +1,5 @@
+jakubMikula-twoparam
+let name=Alexandra;
 
 {
     function greet(greeting,name)
@@ -5,4 +7,4 @@
 
 
 let greeting=Howdy;
-let name=Alex;
+
