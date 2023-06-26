@@ -1,5 +1,5 @@
 function greet() {
-   console.log("Greetings!");
+   console.log("Greetings!!");
 }
 
 let name=Alex;
