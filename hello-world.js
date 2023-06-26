@@ -1,5 +1,10 @@
-function greet() {
-   console.log("Greetings");
-}
+jakubMikula-twoparam
+let name=Alexandra;
 
-let name=Alex;
+{
+    function greet(greeting,name)
+       console.log(greeting+" "+name+"!");}
+
+
+let greeting=Howdy;
+
