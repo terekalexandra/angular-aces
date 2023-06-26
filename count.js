@@ -1,4 +1,4 @@
-let age = 22
+let myAge = 22
 
 function count(){
     console.log(age);
