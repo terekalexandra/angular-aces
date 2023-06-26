@@ -1,4 +1,8 @@
-let age = 22
+
+
+
+let age = 32;
+
 
 function count(){
     console.log(age);
