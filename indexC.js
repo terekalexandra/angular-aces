@@ -1,3 +1,3 @@
-function cheer() {
-    console.log("Josef")
+function cheer(name) {
+    console.log(name)
 }
