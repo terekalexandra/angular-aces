@@ -1,9 +1,9 @@
 
-
+let string = "My age is: "
 
 let age = 32;
 
 
 function count(){
-    console.log(age);
+    console.log(string+age);
 }
