@@ -1,5 +1,5 @@
 let name = javascript
 
-function cheer(name) {
-    console.log(name)
+function cheer(name, otherName) {
+    console.log(name + " " + otherName)
 }
