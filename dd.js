@@ -1,3 +1,3 @@
 function future {
-    console.log('Leo');
+    console.log('Leo.');
 }
