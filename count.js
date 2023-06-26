@@ -1,1 +1,5 @@
-console.log("My age is 22")
+let age = 22
+
+function count(){
+    console.log(age);
+}
